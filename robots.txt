@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://yonsei-100clinic.vercel.app/sitemap.xml
+Sitemap: https://yonsei-100.co.kr/sitemap.xml
